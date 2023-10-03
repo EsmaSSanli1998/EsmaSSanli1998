@@ -4,11 +4,6 @@
 
 <h3>HI👋,I'm Esma Sanli</h3>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Esma Sanli</h1>
-
 <h5>♥Software Test Enginering♥</h5>
 
 - 🌱 I’m currently learning **Apium, Cypress**
