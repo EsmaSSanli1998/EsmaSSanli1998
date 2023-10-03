@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src="https://www.behance.net/gallery/34490551/Hello-World-Programmable-Visual-Identity">
+
+<h1 align="center">I'm Esma Sanli</h1>
+
+
 <!--
 **EsmaSSanli1998/EsmaSSanli1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
