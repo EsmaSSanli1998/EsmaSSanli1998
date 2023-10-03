@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github.com/EsmaSSanli1998/EsmaSSanli1998/raw/main/%C4%B0simsiz%20video%20%E2%80%90%20Clipchamp%20ile%20yap%C4%B1ld%C4%B1.mp4">
+<img src="https://github.com/EsmaSSanli1998/EsmaSSanli1998/blob/main/giphy.gif?raw=true">
 
-<h1 align="center">I'm Esma Sanli</h1>
+<h3 align="center">I'm Esma Sanli</h3>
 
 <!DOCTYPE html>
 <html lang="en">
