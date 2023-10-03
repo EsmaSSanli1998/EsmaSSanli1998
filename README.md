@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/EsmaSSanli1998/EsmaSSanli1998/blob/main/giphy.gif?raw=true">
+<img src="https://github.com/EsmaSSanli1998/EsmaSSanli1998/blob/main/gif4.gif?raw=true">
 
 <h3 align="center">I'm Esma Sanli</h3>
 
