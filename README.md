@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, Cypress**
 
-- 💬 Ask me about **I'm a daughther, cute sister, teacher and QA Tester :). I'm 25 years old. Graduated from Hacettepe University.**
+- 💬 Ask me about **I'm a cute teacher and QA Tester :). I'm 25 years old. Graduated from Hacettepe University.**
 
 - 📫 How to reach me **esmacan1998@gmail.com**
 
