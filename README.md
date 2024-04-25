@@ -6,7 +6,7 @@
 
 <h5>♥Software Test Enginering♥</h5>
 
-- 🌱 I’m currently learning **Appium, Cypress**
+- 🌱 I’m currently learning **Javascript, Cypress**
 
 - 💬 Ask me about **I'm a daughther, cute sister, teacher and QA Tester :). I'm 25 years old. Graduated from Hacettepe University.**
 
