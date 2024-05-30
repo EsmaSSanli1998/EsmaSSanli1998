@@ -4,7 +4,7 @@
 
 <h3>HI👋,I'm Esma Sanli</h3>
 
-<h5>♥Software Test Enginering♥</h5>
+<h5>♥Software Test Engineer♥</h5>
 
 - 🌱 I’m currently learning **Javascript, Cypress**
 
